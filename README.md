@@ -7,6 +7,7 @@ This project analyzes advertising spend across multiple channels to understand t
 ## Feature
 
 Regression Analysis: Explore relationships between advertising channels and sales.
+
 Machine Learning Models: Implement predictive models (including neural networks) to forecast sales outcomes based on advertising spend.
 
 ## Technologies Used
