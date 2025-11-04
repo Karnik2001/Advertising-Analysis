@@ -18,7 +18,7 @@ Matplotlib / Seaborn for visualization
 
 ## Project Goal
 
-Provide actionable insights into advertising effectiveness and budget optimization for better sales performance.
+Provide actionable insights into advertising effectiveness for better sales performance.
 
 ## Author
 
